@@ -1,0 +1,91 @@
+[
+  {
+    "type": "Normal",
+    "name": "Normal",
+    "color": "#a8a878"
+  },
+  {
+    "type": "Fire",
+    "name": "Fuego",
+    "color": "#f08030"
+  },{
+    "type": "Water",
+    "name": "Agua",
+    "color": "#6890f0"
+  },
+  {
+    "type": "Electric",
+    "name": "Eléctrico",
+    "color": "#f8d030"
+  },
+  {
+    "type": "Grass",
+    "name": "Planta",
+    "color": "#78c850"
+  },
+  {
+    "type": "Ice",
+    "name": "Hielo",
+    "color": "#98d8d8"
+  },
+  {
+    "type": "Fighting",
+    "name": "Lucha",
+    "color": "#c03028"
+  },
+  {
+    "type": "Poison",
+    "name": "Veneno",
+    "color": "#a040a0"
+  },
+  {
+    "type": "Ground",
+    "name": "Tierra",
+    "color": "#e0c068"
+  },
+  {
+    "type": "Flying",
+    "name": "Volador",
+    "color": "#a890f0"
+  },
+  {
+    "type": "Psychic",
+    "name": "Psíquico",
+    "color": "#f85888"
+  },
+  {
+    "type": "Bug",
+    "name": "Bicho",
+    "color": "#a8b820"
+  },
+  {
+    "type": "Rock",
+    "name": "Roca",
+    "color": "#b8a038"
+  },
+  {
+    "type": "Ghost",
+    "name": "Fantasma",
+    "color": "#705898"
+  },
+  {
+    "type": "Dragon",
+    "name": "Dragón",
+    "color": "#7038f8"
+  },
+  {
+    "type": "Dark",
+    "name": "Siniestro",
+    "color": "#705848"
+  },
+  {
+    "type": "Steel",
+    "name": "Acero",
+    "color": "#b8b8d0"
+  },
+  {
+    "type": "Fairy",
+    "name": "Hada",
+    "color": "#ee99ac"
+  }
+]
